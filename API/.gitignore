@@ -1,0 +1,89 @@
+# Carpeta de dependencias de Composer
+/vendor/
+# Carpeta de dependencias de Node.js
+/node_modules/
+# Archivos generados por el framework Laravel
+/public/storage/
+/public/hot/
+/storage/*.key
+/.idea
+/.env
+# Archivos generados por Laravel Mix
+/public/css/
+/public/js/
+/public/mix-manifest.json
+# Archivos y carpetas generados por Node.js
+/build/
+/dist/
+/.npm/
+/.yarn/
+# Archivos y carpetas generados por React
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+/build/
+/.pnp/
+/.pnp.js
+# Archivos generados por IIS
+# (Adapta esta sección según tu configuración específica de IIS)
+web.config
+*.php.web.config
+*.config
+/logs/
+/aspnet_client/
+/W3SVC/
+# Archivos generados por Nginx
+# (Adapta esta sección según tu configuración específica de Nginx)
+/logs/
+/sites-enabled/
+# Archivos generados por Docker
+.dockerignore
+docker-compose.yml
+docker-compose.yaml
+# Otros archivos generados localmente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env*.local
+.phpunit.result.cache
+phpunit.xml
+composer.lock
+yarn.lock
+yarn-error.log
+npm-debug.log
+# Otros archivos y carpetas específicos de Laravel
+/.env.example
+/.env.backup
+/.env.testing
+/.phpunit.result.cache
+# Otros archivos y carpetas específicos de Node.js
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+# Otros archivos y carpetas específicos de React
+/public/hot
+# Personalizados
+/public/exportaciones
+/public/storage
+/storage/*.key
+/vendor
+/public/importaciones
+/public/web.config
+/storage/logs/
+/storage/framework/
+/tests/
+.env
+.env.backup
+.phpunit.result.cache
+/public/assets/
+package-lock.json
+composer.lock
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log

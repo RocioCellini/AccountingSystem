@@ -1,0 +1,8 @@
+button.custom-swal-button {
+  background-color: #013A58 !important;
+  color: white !important;
+}
+
+button.custom-swal-button.custom-swal-button-gap {
+  margin-right: 5px;
+}

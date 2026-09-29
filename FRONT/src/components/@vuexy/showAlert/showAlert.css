@@ -1,0 +1,7 @@
+.swal2_actions {
+    /* margin: 0 10px; */
+     display: grid;
+     grid-template-columns: 1fr 1fr; 
+     gap: 50px; 
+    justify-content: space-between !important;
+   }
